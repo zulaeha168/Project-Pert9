@@ -1,9 +1,10 @@
 # Project-Pert9
 
-Nama : Zulaeha
-Nim : 312210575
-Kelas : TI.22.A5
-Dosen Pengampu : Donny
+Nama : Syifa Aurellia Rahma
+NIM : 312210009
+Kelas : TI.22.A1
+Mata Kuliah : Pemrograman Mobile 1
+
 
 ## Tugas :
 ```
